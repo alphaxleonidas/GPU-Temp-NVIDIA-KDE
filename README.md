@@ -21,7 +21,7 @@ For testing, use:
 
 ```
 kquitapp6 plasmashell
-  rm -r ~/.cache/plasma*
+  rm -rv ~/.cache/plasma*
   plasmashell &
 ```
 This will delete cache and restart the session in the same shell. 
