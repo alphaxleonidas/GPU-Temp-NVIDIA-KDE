@@ -7,7 +7,7 @@ GPU temp and Power applet for KDE plasma 6
 ```
 cd ~
 
-git clone https://github.com/alphaxleonidas/GPU-Temp-NVIDIA-KDE.git
+git clone https://github.com/alphaxleonidas/GPU-Stats-NVIDIA-KDE.git
 
 cp -r GPU-Temp-NVIDIA-KDE/* ~/.local/share/plasma/plasmoids/
 
